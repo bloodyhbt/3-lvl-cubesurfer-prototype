@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/esk\u0131sahne.unity"
+    guid: 4e42e1a0feb79234fb1797c4b5c6cde1
+  - enabled: 1
+    path: Assets/Scenes/level 3.unity
+    guid: 663c129812df8e7428aefa68e8c6b81e
+  - enabled: 1
+    path: Assets/Scenes/level 2.unity
+    guid: dd11135a1cb9cf84e9652fc9d2a1171c
   m_configObjects: {}

@@ -5,7 +5,7 @@ using UnityEngine;
 public class CollectableCube : MonoBehaviour
 {
     bool isCollected;
-    int index;
+    float index;
     public Collector collector;
 
     void Start()
@@ -46,7 +46,7 @@ public class CollectableCube : MonoBehaviour
         isCollected = true;
     }
 
-    public void SetIndex(int index)
+    public void SetIndex(float index)
     {
         this.index = index;
 

@@ -12,6 +12,7 @@ public class Coin : MonoBehaviour
             score++;
             Destroy(other.gameObject);
             Debug.Log("Your score:" + score);
+            Debug.Log("skorun:");
         }
     }
 }
